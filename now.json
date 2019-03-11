@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "php-7",
+  "builds": [
+    { "src": "*.php", "use": "@now/php" },
+    { "src": "/css/*.css", "use": "@now/static" },
+    { "src": "/js/*.js", "use": "@now/static" },
+    { "src": "/css/images/*.png", "use": "@now/static" },
+    { "src": "/css/images/*.jpg", "use": "@now/static" },
+    { "src": "/css/images/*.gif", "use": "@now/static" }
+  ]
+}

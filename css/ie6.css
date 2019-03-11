@@ -1,0 +1,13 @@
+.socials a.facebook-ico
+{ background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/facebook.png', sizingMethod='image');}
+
+.socials a.twitter-ico
+{ background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/twitter.png', sizingMethod='image');}
+
+#navigation ul li a
+{ background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/nav.png', sizingMethod='image');}
+
+
+#navigation ul li a.active,
+#navigation ul li a:hover
+{ background: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/nav-active.png', sizingMethod='image');}
